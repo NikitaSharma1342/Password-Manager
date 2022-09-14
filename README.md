@@ -10,7 +10,7 @@ In the world of so many aunthentications we need someone to memorize our passwor
 
 # Description
 
-This application is created with the help of various libraries and modules. It basically has four main functions i.e. to save password, find password and password generator. For UI setup Tkinter is used and the data is saved in json format. The logo of password manager is saved in the file named logo.png.
+This application is created with the help of various libraries and modules. It basically has four main functions i.e. to save password, find password and password generator. For UI setup Tkinter is used and the data is saved in json format file called `data.json`. The logo of password manager is saved in the file named `logo.png`.
 
 # Libraries
 
